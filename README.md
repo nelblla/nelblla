@@ -1,4 +1,161 @@
-## Hi there 👋
+## Hi there 
+
+
+<div align="center">
+
+# 👋  I'm Feng Kaiyu.
+
+[![loveress01@outlook.com](https://img.shields.io/badge/email-loveress01@outlook.com-blueviolet?style=flat-square&logo=microsoft-outlook&color=0078d4)][email]
+[![https://blog.fkynjyq.com](https://img.shields.io/badge/blog-https://blog.fkynjyq.com-blueviolet?style=flat-square&logo=vercel&color=000000)][website]
+[![@fkynjyq](https://img.shields.io/badge/twitter-@fkynjyq-blueviolet?style=flat-square&logo=twitter&color=1DA1F2)][twitter]
+
+</div>
+
+I am an individual who enjoys experimenting, thinking, learning, and creating.
+
+I work on analytical database infrastructure, with a focus on storage and metadata systems.
+
+My background spans blockchain research, full-stack development, and distributed systems.
+I am particularly interested in building infrastructure for data-intensive systems and resource scheduling.
+
+I'm also a lover of LaTeX, Neovim and Linux.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fky2015/fky2015/raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
+  <img alt="snk" src="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
+</picture>
+
+- :telescope: Focused on **systems, infrastructure, and databases**.
+- :seedling: Currently learning more about **storage engines, metadata systems, and resource scheduling**.
+- :handshake: Open to collaborate on **infra, databases, and developer tools**.
+- :goal_net: 2026 Goal: Rebuild a **healthy body, lifestyle, and learning routine**.
+
+<div align="center">
+
+## 🔧 Technical Stack (Still Expanding)
+
+</div>
+
+In the past, I worked on blockchain research, full-stack development, and distributed systems; today, I focus on analytical database infrastructure, especially storage and metadata; looking ahead, I want to keep building infrastructure for data-intensive systems and resource scheduling.
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=C%2B%2B&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFCC01.svg?&style=flat-square&logo=ClickHouse&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-%235277C3.svg?&style=flat-square&logo=NixOS&logoColor=white)
+
+As a first-year graduate student, I spent times in [blockchain consensus algorithms](https://github.com/fky2015/substrate-MCA) and [LaTeX package development](https://github.com/BITNP/BIThesis):
+
+![RUST](https://img.shields.io/badge/Rust-%23000000.svg?&style=flat-square&logo=rust&logoColor=white)
+![Substrate](https://img.shields.io/badge/Substrate-%23282828.svg?&style=flat-square&logo=parity-substrate&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?&style=flat-square&logo=latex&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?&style=flat-square&logo=Lua&logoColor=white)
+![Pop!_OS](https://img.shields.io/badge/Pop%21_OS-%2348B9C7.svg?&style=flat-square&logo=Pop%21_OS&logoColor=white)
+
+During junior and senior years, I did [full stack development](https://github.com/BITNP/clinic_django) and did some works in [Web3](https://github.com/PrivacyWallet), [Architecture](https://github.com/cpu-build-training/CH4-1-mips32), and [Compilers](https://github.com/BIT-SYS/cloud-ladder).
+
+![VueJS](https://img.shields.io/badge/Vue.js%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D)
+![Vuetify](https://img.shields.io/badge/Vuetify-%231867c0.svg?&style=flat-square&logo=vuetify&logoColor=white)
+![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?&style=flat-square&logo=tailwind-css&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%232496ED.svg?&style=flat-square&logo=kubernetes&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822.svg?&style=flat-square&logo=web3.js&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-%23F16822.svg?&style=flat-square&logo=hyperledger&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?&style=flat-square&logo=solidity&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23FF7800.svg?&style=flat-square&logoColor=black)
+
+As a sophomore, I wrote [feverrpc](https://github.com/fky2015/feverrpc-ng) and started to use Arch Linux:
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?&style=flat-square&logo=arch-linux&logoColor=white)
+![RUST](https://img.shields.io/badge/Rust-%23000000.svg?&style=flat-square&logo=rust&logoColor=white)
+
+During my freshman year, I divided my time between participating in ACM and CTF competitions, while working on other small projects:
+
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=flat-square&logo=C&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=C%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=flat-square&logo=docker&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-%2335BF5C.svg?&style=flat-square&logo=Manjaro&logoColor=white)
+![Gnome](https://img.shields.io/badge/Gnome-%234A86CF.svg?&style=flat-square&logo=gnome&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script%20-%23121011.svg?&style=flat-square&logo=gnu-bash&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-%23019733.svg?&style=flat-square&logo=vim&logoColor=white)
+
+One of my earlier research projects was [Jasmine](https://github.com/fky2015/Jasmine), a blockchain consensus algorithm prototype.
+
+Other tools preferences:
+
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)
+![Roam Research](https://img.shields.io/badge/Roam%20Research-%23343A40.svg?&style=flat-square&logo=roam-research&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23f05032.svg?&style=flat-square&logo=git&logoColor=white)
+![Alacritty](https://img.shields.io/badge/Alacritty-%23F46D01.svg?&style=flat-square&logo=alacritty&logoColor=white)
+
+
+<div align="center">
+
+## Education and Work experience
+
+</div>
+
+- Education Summary
+  - Master of Science in Cyberspace Science and Technology | Beijing Institute of Technology (2021-2024), specializing in consensus algorithms.
+  - Bachelor of Science in Computer Science | Beijing Institute of Technology (2017-2021)
+- Work Experience
+  - **Software Engineer** | _ByteHouse, ByteDance_ (2024/7 - Present).
+    - Working on storage and metadata systems for OLAP workloads.
+  - **Software Engineer Intern** | _ByteHouse, ByteDance_ (2023/4 - 2024/4).
+    - Worked on infrastructure related to OLAP systems.
+  - **Backend Development Intern** | _Fanqie Novel, ByteDance_ (2020/10 - 2021/3).
+    - Technologies used: Golang, Kafka, and FaaS.
+    - Responsibilities: Designing technical systems, completing development, testing, and deploying the systems.
+    - Accomplishments:
+      - Deployed in-site message system with adept design and testing, as Software Engineer with experience in Kafka and FaaS.
+      - Participated in the analysis of requirements for the author's backend and user's backend, and the design of the system technical solution. Completed the development of requirements, gray-scale testing, online and monitoring.
+<!-- Accomplishments -->
+
+<div align="center">
+
+## 🧠 Weekly development breakdown
+
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+## ✍🏻 Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## ⚡ Github Activity & Stats
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#15](https://github.com/fky2015/resume-ng/pull/15#issuecomment-4474519436) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
+<!--END_SECTION:activity-->
+
+![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=nelblla&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
+
+</div>
+
+[website]: https://blog.fkynjyq.com
+[twitter]: https://twitter.com/fkynjyq
+[email]: mailto:loveress01@outlook.com
+
+---
+
+<sub><sup>
+[*Read me before creating yours.](https://github.com/fky2015/fky2015/wiki/Read-me-before-creating-yours-profile.)
+</sup></sub>
+
+
+
 
 <!--
 **nelblla/nelblla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
