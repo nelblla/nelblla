@@ -148,7 +148,6 @@ No activity tracked
 ---
 
 <sub><sup>
-[*Read me before creating yours.](https://github.com/fky2015/fky2015/wiki/Read-me-before-creating-yours-profile.)
 </sup></sub>
 
 
